@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900" font-family="Arial, Helvetica, sans-serif">
+<rect width="1440" height="900" fill="#ffffff"/>
+<rect width="1440" height="80" fill="#ffffff"/><rect y="80" width="1440" height="1" fill="#E3E7EE"/>
+<text x="80" y="50" font-size="24" font-weight="700" fill="#3A1830">Nana&apos;s Beauty Lounge</text>
+<rect x="900" y="34" width="70" height="12" rx="6" fill="#C9CFDA"/><rect x="1000" y="34" width="70" height="12" rx="6" fill="#C9CFDA"/><rect x="1100" y="34" width="70" height="12" rx="6" fill="#C9CFDA"/>
+<rect x="1210" y="22" width="150" height="38" rx="19" fill="#E58FA8"/>
+<rect y="81" width="1440" height="460" fill="#3A1830"/>
+<text x="80" y="250" font-size="64" font-weight="800" fill="#ffffff">Nana&apos;s Beauty Lounge</text>
+<rect x="80" y="290" width="560" height="16" rx="8" fill="#ffffff" fill-opacity=".55"/>
+<rect x="80" y="322" width="440" height="16" rx="8" fill="#ffffff" fill-opacity=".55"/>
+<rect x="80" y="380" width="200" height="56" rx="28" fill="#E58FA8"/>
+<rect x="300" y="380" width="180" height="56" rx="28" fill="none" stroke="#ffffff" stroke-opacity=".6" stroke-width="2"/>
+<rect x="820" y="141" width="540" height="340" rx="16" fill="#E58FA8" fill-opacity=".85"/>
+<circle cx="1090" cy="311" r="70" fill="#ffffff" fill-opacity=".25"/>
+<g fill="#F2F4F7"><rect x="80" y="600" width="400" height="240" rx="14"/><rect x="520" y="600" width="400" height="240" rx="14"/><rect x="960" y="600" width="400" height="240" rx="14"/></g>
+<g fill="#E58FA8"><rect x="110" y="630" width="56" height="56" rx="12"/><rect x="550" y="630" width="56" height="56" rx="12"/><rect x="990" y="630" width="56" height="56" rx="12"/></g>
+<g fill="#C9CFDA"><rect x="110" y="716" width="240" height="14" rx="7"/><rect x="110" y="744" width="300" height="12" rx="6"/><rect x="550" y="716" width="240" height="14" rx="7"/><rect x="550" y="744" width="300" height="12" rx="6"/><rect x="990" y="716" width="240" height="14" rx="7"/><rect x="990" y="744" width="300" height="12" rx="6"/></g>
+<text x="1360" y="880" font-size="16" text-anchor="end" fill="#9AA3B5">Sample screenshot</text>
+</svg>

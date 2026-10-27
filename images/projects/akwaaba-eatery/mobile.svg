@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" width="390" height="844" font-family="Arial, Helvetica, sans-serif">
+<rect width="390" height="844" fill="#ffffff"/>
+<text x="24" y="44" font-size="18" font-weight="700" fill="#3B1F14">Akwaaba Eatery</text>
+<g fill="#3B1F14"><rect x="334" y="28" width="32" height="4" rx="2"/><rect x="334" y="38" width="32" height="4" rx="2"/><rect x="334" y="48" width="32" height="4" rx="2"/></g>
+<rect y="72" width="390" height="420" fill="#3B1F14"/>
+<rect x="24" y="100" width="342" height="170" rx="14" fill="#F2A93B" fill-opacity=".85"/>
+<text x="24" y="320" font-size="30" font-weight="800" fill="#ffffff">Akwaaba Eatery</text>
+<rect x="24" y="342" width="300" height="12" rx="6" fill="#ffffff" fill-opacity=".55"/>
+<rect x="24" y="364" width="230" height="12" rx="6" fill="#ffffff" fill-opacity=".55"/>
+<rect x="24" y="404" width="342" height="52" rx="26" fill="#F2A93B"/>
+<g fill="#F2F4F7"><rect x="24" y="520" width="342" height="130" rx="14"/><rect x="24" y="666" width="342" height="130" rx="14"/></g>
+<g fill="#F2A93B"><rect x="44" y="540" width="44" height="44" rx="10"/><rect x="44" y="686" width="44" height="44" rx="10"/></g>
+<g fill="#C9CFDA"><rect x="44" y="600" width="200" height="12" rx="6"/><rect x="44" y="622" width="260" height="10" rx="5"/><rect x="44" y="746" width="200" height="12" rx="6"/><rect x="44" y="768" width="260" height="10" rx="5"/></g>
+</svg>
